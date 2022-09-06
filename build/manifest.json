@@ -1,0 +1,9 @@
+{
+  "name": "Avvy Domains",
+  "description": "Manage your .ftm domains.",
+  "iconPath": "images/logo.png",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
